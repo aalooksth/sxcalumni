@@ -203,10 +203,10 @@ prose:
   rooturl: ''
   media: 'img'
   ignore:
-    - 404.html
+    #- 404.html
     - LICENSE
     - feed.xml
-    - _config.yml
+    #- _config.yml
     - /_layouts
     - /_includes
     - /css
