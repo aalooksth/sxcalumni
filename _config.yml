@@ -23,7 +23,10 @@ description: Once a Xavierian, Always a Xavierian!
 
 # List of links in the navigation bar
 navbar-links:
-  # About Me: "aboutme"
+  About: ""
+    - About Us: "about"
+    - Thanks: "Thanks"
+    - Contact Us: "contact"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
@@ -32,7 +35,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/avatar-icon.png"
+avatar: "/img/SXCAlumni-logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
