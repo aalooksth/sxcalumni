@@ -25,7 +25,7 @@ description: Once a Xavierian, Always a Xavierian!
 navbar-links:
   About:
     - About Us: "about"
-    - Thanks: "thanks"
+    - Thanks: "thankyou"
   Blog: "./blog"
   Contact Us: "contact"
   # Resources:
