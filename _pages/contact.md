@@ -4,7 +4,7 @@ title: Get in Touch with us
 subtitle: 
 ---
 
-{{ site.title }}  
+### {{ site.title }}  
 St. Xavier's College  
 Maitighar, Kathmandu  
 alumni@sxc.edu.np  
