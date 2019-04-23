@@ -24,10 +24,11 @@ description: Once a Xavierian, Always a Xavierian!
 # List of links in the navigation bar
 navbar-links:
   About:
-    - About Us: "about"
+    - About Us: "./_pages/about"
     - Thanks: "thankyou"
   Blog: "./blog"
   Contact Us: "contact"
+nav-search: "search"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
