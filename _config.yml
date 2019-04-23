@@ -25,8 +25,8 @@ description: Once a Xavierian, Always a Xavierian!
 navbar-links:
   About:
     - About Us: "about"
-    - Thanks: "Thanks"
-    - Contact Us: "contact"
+    - Thanks: "thanks"
+  Contact Us: "contact"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
