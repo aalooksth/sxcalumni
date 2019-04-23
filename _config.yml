@@ -206,8 +206,8 @@ prose:
     - LICENSE
     - feed.xml
     #- _config.yml
-    - /_layouts
-    - /_includes
+    #- /_layouts
+    #- /_includes
     - /css
     - /img
     - /js
