@@ -24,7 +24,7 @@ description: Once a Xavierian, Always a Xavierian!
 # List of links in the navigation bar
 navbar-links:
   About:
-    - About Us: "./_pages/about"
+    - About Us: "about"
     - Thanks: "thankyou"
   Blog: "./blog"
   Contact Us: "contact"
