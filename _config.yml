@@ -23,7 +23,7 @@ description: Once a Xavierian, Always a Xavierian!
 
 # List of links in the navigation bar
 navbar-links:
-  About: "#"
+  About:
     - About Us: "about"
     - Thanks: "Thanks"
     - Contact Us: "contact"
