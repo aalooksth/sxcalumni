@@ -9,7 +9,7 @@
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
-  icon: "fa-facebook-f"
+  icon: "fab fa-facebook-f"
 
 github:
   name: "GitHub"
@@ -19,7 +19,7 @@ github:
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
-  icon: "fa-twitter"
+  icon: "fab fa-twitter"
 
 reddit:
   name: "Reddit"
@@ -34,12 +34,12 @@ google-plus:
 email:
   name: "Email me"
   baseURL: "mailto:"
-  icon: "fa-envelope"
+  icon: "fas fa-envelope"
 
 linkedin:
   name: "LinkedIn"
   baseURL: "https://linkedin.com/in/"
-  icon: "fa-linkedin"
+  icon: "fab fa-linkedin"
 
 xing:
   name: "Xing"
@@ -79,7 +79,7 @@ telephone:
 rss:
   name: "RSS"
   baseURL: "{{ '/feed.xml' | prepend: site.baseurl }}"
-  icon: "fa-rss"
+  icon: "fas fa-rss"
 
 steam:
   name: "Steam"
