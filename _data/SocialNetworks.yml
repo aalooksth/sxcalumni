@@ -59,12 +59,12 @@ snapchat:
 instagram:
   name: "Instagram"
   baseURL: "https://www.instagram.com/"
-  icon: "fa-instagram"
+  icon: "fab fa-instagram"
 
 youtube:
   name: "YouTube"
   baseURL: "https://www.youtube.com/"
-  icon: "fa-youtube"
+  icon: "fab fa-youtube"
 
 spotify:
   name: "Spotify"
