@@ -27,6 +27,7 @@ navbar-links:
     - About Us: "about"
     - Thanks: "thankyou"
   Blog: "./blog"
+  Events Calendar: "calendar"
   Register: "register"
   Contact Us: "contact"
 nav-search: "search"
